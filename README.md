@@ -1,3 +1,1 @@
-"# TDM_6thFloor" 
-"# SLIIT-Model" 
-"# SLIITModelGame" 
+3D view of SLIIT Malabe Campus and experience Virtual Reality
